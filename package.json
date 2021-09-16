@@ -33,7 +33,7 @@
     "@istanbuljs/nyc-config-typescript": "1.0.1",
     "@types/chai": "4.2.21",
     "@types/debug": "4.1.7",
-    "@types/ioredis": "4.27.2",
+    "@types/ioredis": "4.27.4",
     "@types/mocha": "9.0.0",
     "@types/node": "16.6.1",
     "@types/pino": "6.3.11",
